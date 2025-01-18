@@ -10,7 +10,7 @@ A simple Java application to manage student records with operations like add, re
 ## How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/username/student-management-system.git
+   git clone https://github.com/Ananthadatta02/My_Student_Navigator.git
    ```
 2. Navigate to the project directory and compile the code:
    ```
